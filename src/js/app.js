@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "value": 3,
         "random": true,
         "anim": {
-          "enable": false,
+          "enable": true,
           "speed": 4,
           "size_min": 0.3,
           "sync": false
@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded", function () {
       "detect_on": "canvas",
       "events": {
         "onhover": {
-          "enable": false,
+          "enable": true,
           "mode": "bubble"
         },
         "onclick": {
