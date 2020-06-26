@@ -1,16 +1,16 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
+title: Jennifer Pouplin
+description: Online Research Portfolio
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
-user_title: Software Engineer
-email: mauriurraco@gmail.com
+username: Jennifer Pouplin
+user_description: I am a PhD candidate in Astrodynamics and Space Applications at Purdue University. As part of my dissertation work, I am applying my skills in Planetary Sciences, by modeling the orbital evolution of planetary rings and satellites systems, such as the hypothesized ancient martian ring system, or the contemporary ring system around Chariklo. 
+user_title: PhD Candidate at Purdue University, under the supervision of Dr. David A. Minton 
+email: jpouplin@purdue.edu
 # twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+github_username:  jenniferpouplin
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
