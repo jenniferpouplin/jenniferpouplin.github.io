@@ -15,6 +15,7 @@ googlescholar_username: jenniferpouplin
 
 # Build settings 
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
 
 exclude: ['package.json', 'src' , 'node_modules']
