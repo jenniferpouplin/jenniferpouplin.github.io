@@ -10,7 +10,11 @@ user_description: PhD Candidate under the supervision of Dr. David A Minton.
 user_title: PhD Candidate under the supervision of Dr. David A Minton
 email: jpouplin@purdue.edu
 github_username:  jenniferpouplin
+linkedin_username: jennifer-pouplin
+googlescholar_username: jenniferpouplin
 
-
+# Build settings 
+plugins:
+  - jekyll-seo-tag
 
 exclude: ['package.json', 'src' , 'node_modules']
